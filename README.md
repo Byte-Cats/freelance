@@ -1,1 +1,11 @@
 # freelance
+
+
+| Platform  | Services & Offerings                                                     | Freelancer Actions Required                                                         | Pricing & Fees                                                                                     |
+|-----------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Remote.co | Job listings, company profiles, resources, guides, Q&A sessions.         | Browse jobs, use resources, consider premium membership for more benefits.          | Free access; Optional $10/month for Remote.co Insider premium membership.                          |
+| Nodesk.co | Variety of remote jobs including freelance, full-time, part-time.        | Browse and apply for jobs across different fields and job types.                    | No direct fees mentioned for accessing job listings.                                               |
+| Upwork    | Marketplace for a variety of projects and clients.                        | Create a profile, browse and apply for jobs using Connects, manage contracts.       | 10% service fee on earnings; Costs for Connects and possible initiation fee for new contracts.      |
+| FlexJobs  | Specializing in remote, freelance, flexible and part-time opportunities.  | Sign up for membership, complete profile, browse jobs, utilize resources and tests. | $9.95/week, $24.95/month, $39.95/3 months, $59.95/year. 14-day trial for $2.95 with satisfaction guarantee. |
+| Pangian   | Remote job board for 100% remote job opportunities worldwide.              | Join community, browse and apply for jobs, upgrade to premium for exclusive access. | Freemium; Premium plans start at $10/month.                                                        |
+| Remotely.jobs | Platform for freelance jobs offering flexible hours and remote work. | Browse and apply for remote freelance jobs.                                         | Specific pricing details not provided.                                                             |
